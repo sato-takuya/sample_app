@@ -65,3 +65,6 @@ gem 'rails-controller-testing'
 gem 'bcrypt','3.1.12'
 gem 'rb-readline'
 gem "jquery-rails"
+gem 'faker','1.7.3'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
